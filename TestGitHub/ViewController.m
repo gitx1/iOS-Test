@@ -25,6 +25,8 @@
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // Yo estoy añadiendo un comentario.
+    // Añado un segundo comentario.
+    // Y añado un tercer comentario.
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
